@@ -6,7 +6,11 @@
         {
             "name": "Nasrul Hazim",
             "email": "nasrulhazim.m@gmail.com"
-        }
+        },
+	{
+	    "name": "Gareth Clarke",
+            "email": "gareth.clarke.za@gmail.com"
+	}
     ],
     "autoload": {
         "psr-4": {
@@ -14,7 +18,7 @@
         }
     },
     "require": {
-        "illuminate/filesystem" : "5.3.*",
-        "illuminate/http" : "5.3.*"
+        "illuminate/filesystem" : "^5.3.*",
+        "illuminate/http" : "^5.3.*"
     }
 }
